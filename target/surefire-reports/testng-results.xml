@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T17:49:40 CDT" name="variousConcepts.CRM_Test" finished-at="2024-04-01T17:50:20 CDT" duration-ms="39858">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T17:49:40 CDT" name="Command line test" finished-at="2024-04-01T17:50:20 CDT" duration-ms="39858">
+      <class name="variousConcepts.CRM_Test">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:49:40 CDT" name="readConfig" finished-at="2024-04-01T17:49:40 CDT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:49:40 CDT" name="init" finished-at="2024-04-01T17:49:47 CDT" duration-ms="6652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testLogin()[pri:1, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:49:47 CDT" name="testLogin" finished-at="2024-04-01T17:49:57 CDT" duration-ms="9518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:49:57 CDT" name="tearDown" finished-at="2024-04-01T17:49:57 CDT" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:49:57 CDT" name="init" finished-at="2024-04-01T17:50:01 CDT" duration-ms="4169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAlert()[pri:2, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:50:01 CDT" name="testAlert" finished-at="2024-04-01T17:50:02 CDT" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAlert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:50:02 CDT" name="tearDown" finished-at="2024-04-01T17:50:02 CDT" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:50:02 CDT" name="init" finished-at="2024-04-01T17:50:07 CDT" duration-ms="4493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testAddCustomer()[pri:3, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:50:07 CDT" name="testAddCustomer" finished-at="2024-04-01T17:50:19 CDT" duration-ms="12824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcepts.CRM_Test@489115ef]" started-at="2024-04-01T17:50:19 CDT" name="tearDown" finished-at="2024-04-01T17:50:20 CDT" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousConcepts.CRM_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- variousConcepts.CRM_Test -->
+</testng-results>
